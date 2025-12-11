@@ -27,7 +27,7 @@ Hỗ trợ input từ ảnh, video, hoặc webcam thời gian thực.
 
 Thu thập & Chuẩn hóa dữ liệu
 
-Datasets: ASL Alphabet, MNIST Sign Language hoặc bộ dữ liệu tự thu thập.
+Datasets: Kaggle hoặc bộ dữ liệu tự thu thập.
 
 Tiền xử lý: cân chỉnh kích thước, chuyển xám/RGB, phát hiện bàn tay.
 
