@@ -1,4 +1,4 @@
-#Nhận diện Ngôn ngữ Ký hiệu (Sign Language Recognition)
+# Nhận diện Ngôn ngữ Ký hiệu (Sign Language Recognition)
 Giới thiệu
 
 Dự án này tập trung xây dựng một hệ thống nhận diện ngôn ngữ ký hiệu từ hình ảnh hoặc video, nhằm hỗ trợ giao tiếp giữa người khiếm thính và cộng đồng. Hệ thống sử dụng các kỹ thuật xử lý ảnh, học sâu và mô hình phân loại để dự đoán ký hiệu thủ ngữ theo bộ dữ liệu chuẩn.
